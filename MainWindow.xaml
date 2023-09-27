@@ -8,5 +8,13 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <TextBlock >bruh</TextBlock>
+        <Button x:Name="MemeButton"
+         VerticalAlignment="Center"
+         HorizontalAlignment="Center"
+         FontSize="50"
+         Background="Aqua"
+         >
+            memes
+        </Button>
     </Grid>
 </Window>
